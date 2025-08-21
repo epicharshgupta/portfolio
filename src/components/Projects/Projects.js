@@ -43,7 +43,7 @@ Candidates can browse/search jobs, apply with resumes, and track application sta
 
 Admins can monitor jobs, users, and companies."
               ghLink="https://github.com/epicharshgupta/job-portal-application"
-              // demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://career-nest-steel.vercel.app/"
             />
           </Col>
 
